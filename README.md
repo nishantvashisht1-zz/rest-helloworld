@@ -4,6 +4,9 @@ Rest Hello World
 ===================
 This is  a simple REST service example using [**Spring**](https://spring.io/guides/gs/rest-service/). 
 
+If you are interested in knowing more about this project, you can find in my blog 
+['REST with Spring'](https://indrabasak.wordpress.com/2016/04/01/rest-with-spring/).
+
 # Build
 Execute the following command from the parent directory to compile the project:
 
@@ -162,9 +165,6 @@ Expected Response Body:
   }
 }
 ```
-
-If you are interested in knowing more about this project, you can find in my blog 
-['REST with Spring'](https://indrabasak.wordpress.com/2016/04/01/rest-with-spring/).
 
 
 [travis-badge]: https://travis-ci.org/indrabasak/rest-helloworld.svg?branch=master
