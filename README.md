@@ -29,7 +29,7 @@ HTTP Method: GET
 Header: Accept: application/json
 
 Expected Response Body:
-```
+```json
 {
   "id" : 1,
   "firstName" : "Robert",
@@ -50,7 +50,7 @@ Header:
 Content-Type: application/json
 Accept: application/json
 Request Body:
-```
+```json
 {
   "firstName" : "John",
   "lastName" : "Doe",
@@ -64,7 +64,7 @@ Request Body:
 ```
 
 Expected Response Body:
-```
+```json
 {
   "id" : 4,
   "firstName" : "John",
@@ -86,7 +86,7 @@ Content-Type: application/json
 Accept: application/json
 
 Expected Response Body:
-```
+```json
 {
   "id" : 4,
   "firstName" : "John",
@@ -107,7 +107,7 @@ Header:
 Content-Type: application/json
 Accept: application/json
 Request Body:
-```
+```json
 {
   "firstName" : "Robert",
   "lastName" : "Redford",
@@ -121,7 +121,7 @@ Request Body:
 ```
 
 Expected Response Body:
-```
+```json
 {
   "id" : 1,
   "firstName" : "Robert",
@@ -149,7 +149,7 @@ Request Body:
 ```
 
 Expected Response Body:
-```
+```json
 {
   "id" : 1,
   "firstName" : "John",
